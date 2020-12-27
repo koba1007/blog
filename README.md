@@ -3,7 +3,7 @@
 This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using [WordPress](https://wordpress.org) as the data source.
 ## Demo
 ### [https://next-blog-wordpress.now.sh](https://next-blog-wordpress.now.sh)
-
+test
 ## Deploy your own
 
 Once you have access to [the environment variables you'll need](#step-3-set-up-environment-variables), deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
