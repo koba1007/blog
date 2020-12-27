@@ -3,7 +3,6 @@
 This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using [WordPress](https://wordpress.org) as the data source.
 
 ## Demo
-test
 ### [https://next-blog-wordpress.now.sh](https://next-blog-wordpress.now.sh)
 
 ## Deploy your own
